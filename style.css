@@ -1,0 +1,114 @@
+body {
+font-family: 'Segoe UI', Roboto, sans-serif;
+background: linear-gradient(140deg, #f7fafc 70%, #ccd4a4 100%);
+color: #222;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+/* Optional: add a subtle pattern overlay with :before */
+}
+
+.header {
+text-align: center;
+margin: 28px 0;
+}
+.header h1 {
+font-size: 2.1rem;
+color: #74981e;
+letter-spacing: 0.02em;
+font-weight: 700;
+}
+.header p {
+font-size: 1.05rem;
+color: #5d7534;
+margin-top: 7px;
+}
+
+.container {
+background: #fff;
+width: 90%;
+max-width: 500px;
+padding: 28px 24px 22px 24px;
+border-radius: 16px;
+box-shadow: 0 6px 24px rgba(116,152,30,0.07);
+display: flex;
+flex-direction: column;
+gap: 22px;
+border: 1.5px solid #ccd4a4;
+}
+
+textarea {
+width: 100%;
+padding: 14px;
+border: 1.5px solid #ccd4a4;
+border-radius: 12px;
+font-size: 1.07rem;
+outline: none;
+background: #f9fafb;
+transition: border 0.2s;
+}
+textarea:focus {
+border-color: #74981e;
+box-shadow: 0 0 0 3px rgba(116,152,30,0.11);
+}
+
+.controls {
+display: flex;
+gap: 12px;
+margin-top: 10px;
+}
+.btn {
+flex: 1;
+padding: 12px;
+border-radius: 12px;
+border: none;
+font-size: 1rem;
+font-weight: 600;
+cursor: pointer;
+letter-spacing: 0.01em;
+transition: background 0.2s, box-shadow 0.2s;
+}
+.btn.primary {
+background: #74981e;
+color: #fff;
+box-shadow: 0 2px 6px rgba(116,152,30,0.06);
+}
+.btn.primary:hover { background: #5d7534; }
+.btn.secondary {
+background: #e9f3df;
+color: #74981e;
+}
+.btn.secondary:hover { background: #ccd4a4; color: #5d7534; }
+
+.file-label {
+flex: 1;
+background: #f6f8ed;
+border: 1.5px dashed #ccd4a4;
+border-radius: 12px;
+padding: 12px;
+color: #74981e;
+font-weight: 500;
+transition: background 0.2s;
+}
+.file-label:hover { background: #eaf3d4; }
+.file-label input { display: none; }
+
+.answer-box h2 { color: #74981e; font-size: 1.14rem; margin-bottom: 8px; }
+.answer {
+min-height: 70px;
+background: #f6f8ed;
+padding: 13px;
+border-radius: 10px;
+border: 1.5px solid #ccd4a4;
+font-size: 1.02rem;
+color: #222;
+margin-bottom: 2px;
+}
+
+.history-box h3 { color: #5d7534; font-size: 1.08rem; margin-bottom: 5px; }
+#historyList li {
+border-bottom: 1px solid #eaf3d4;
+padding: 8px 10px;
+font-size: 0.93rem;
+}
