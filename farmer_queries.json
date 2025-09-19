@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Banana irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Banana sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Banana fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Banana pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Banana disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Banana harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Banana storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Banana spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Banana weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Banana soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Wheat irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Wheat sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Wheat fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Wheat pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Wheat disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Wheat harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Wheat storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Wheat spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Wheat weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Wheat soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Groundnut irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Groundnut sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Groundnut fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Groundnut pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Groundnut disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Groundnut harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Groundnut storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Groundnut spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Groundnut weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Groundnut soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Paddy irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Paddy sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Paddy fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Paddy pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Paddy disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Paddy harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Paddy storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Paddy spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Paddy weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Paddy soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Cotton irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Cotton sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Cotton fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Cotton pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Cotton disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Cotton harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Cotton storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Cotton spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Cotton weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Cotton soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Sugarcane irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Sugarcane sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Sugarcane fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Sugarcane pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Sugarcane disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Sugarcane harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Sugarcane storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Sugarcane spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Sugarcane weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Sugarcane soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Maize irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Maize sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Maize fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Maize pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Maize disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Maize harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Maize storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Maize spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Maize weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Maize soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Tomato irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Tomato sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Tomato fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Tomato pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Tomato disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Tomato harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Tomato storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Tomato spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Tomato weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Tomato soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Chilli irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Chilli sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Chilli fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Chilli pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Chilli disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Chilli harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Chilli storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Chilli spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Chilli weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Chilli soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Onion irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Onion sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Onion fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Onion pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Onion disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Onion harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Onion storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Onion spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Onion weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Onion soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Potato irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Potato sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Potato fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Potato pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Potato disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Potato harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Potato storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Potato spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Potato weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Potato soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Ragi irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Ragi sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Ragi fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Ragi pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Ragi disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Ragi harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Ragi storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Ragi spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Ragi weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Ragi soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Jowar irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Jowar sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Jowar fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Jowar pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Jowar disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Jowar harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Jowar storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Jowar spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Jowar weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Jowar soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Soybean irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Soybean sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Soybean fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Soybean pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Soybean disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Soybean harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Soybean storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Soybean spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Soybean weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Soybean soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Mustard irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Mustard sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Mustard fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Mustard pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Mustard disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Mustard harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Mustard storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Mustard spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Mustard weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Mustard soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Brinjal irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Brinjal sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Brinjal fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Brinjal pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Brinjal disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Brinjal harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Brinjal storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Brinjal spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Brinjal weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Brinjal soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Okra irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Okra sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Okra fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Okra pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Okra disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Okra harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Okra storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Okra spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Okra weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Okra soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Sunflower irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Sunflower sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Sunflower fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Sunflower pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Sunflower disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Sunflower harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Sunflower storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Sunflower spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Sunflower weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Sunflower soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Tur irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Tur sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Tur fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Tur pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Tur disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Tur harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Tur storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Tur spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Tur weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Tur soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Moong irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Moong sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Moong fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Moong pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Moong disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Moong harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Moong storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Moong spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Moong weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Moong soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  }
+]

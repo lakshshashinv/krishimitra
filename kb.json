@@ -1,0 +1,1017 @@
+[
+  {"title":"Late blight in potatoes","content":"Remove infected leaves, improve drainage, apply copper-based fungicide every 7-10 days."},
+  {"title":"Watering rice seedlings","content":"Keep 2-3 cm standing water until tillering stage; avoid stress during panicle initiation."},
+  {"title":"Seed subsidy info","content":"Visit local agriculture office or state agri portal for seed subsidy application forms."},
+  {"title":"Powdery mildew in wheat","content":"Remove infected plants, ensure proper spacing, spray sulfur-based fungicide weekly."},
+  {"title":"Tomato watering","content":"Water early morning or late evening, keep soil moist but not waterlogged."},
+  {"title":"Nitrogen deficiency in maize","content":"Apply urea as top dressing, split into two doses, 3 weeks apart."},
+  {"title":"Fruit fly in mango","content":"Hang methyl eugenol traps, remove rotten fruits, spray neem-based insecticide weekly."},
+  {"title":"Paddy transplanting","content":"Transplant seedlings 25-30 days old, 20x20 cm spacing for optimum growth."},
+  {"title":"Organic compost preparation","content":"Mix farm waste, cow dung, and green leaves; turn every 10 days for 2 months."},
+  {"title":"Potassium deficiency in banana","content":"Apply 250 g muriate of potash per plant; water immediately after application."},
+  {"title":"Aphid attack on mustard","content":"Spray neem oil or insecticidal soap every 7 days; remove affected leaves."},
+  {"title":"Irrigation for sugarcane","content":"Maintain 5-7 cm water in furrows, reduce during maturity to improve sugar content."},
+  {"title":"Seed treatment in pulses","content":"Treat seeds with Rhizobium culture before sowing to improve nodulation."},
+  {"title":"Storage of harvested grains","content":"Keep grains dry, store in jute bags, use neem leaves to prevent insect damage."},
+  {"title":"Tomato early blight","content":"Remove infected leaves, rotate crops, spray copper oxychloride every 10 days."},
+  {"title":"Wheat irrigation","content":"Apply irrigation at crown root initiation and tillering stage; avoid waterlogging."},
+  {"title":"Rice blast disease","content":"Use resistant varieties, remove weeds, spray tricyclazole at early stage."},
+  {"title":"Banana borer management","content":"Remove infected pseudostems, use pheromone traps, apply insecticide if needed."},
+  {"title":"Fertilizer for maize","content":"Apply 120 kg N, 60 kg P2O5, 40 kg K2O per hectare; split N in 2 doses."},
+  {"title":"Soil pH testing","content":"Collect soil sample, test pH using kit, adjust with lime or sulfur accordingly."},
+  {"title":"Downy mildew in grapes","content":"Spray copper oxychloride every 10-14 days; remove infected shoots."},
+  {"title":"Irrigation in wheat","content":"Apply 25 mm water at crown root initiation and tillering stage; avoid overwatering."},
+  {"title":"Seed treatment in cotton","content":"Treat seeds with Trichoderma and fungicide to prevent damping off."},
+  {"title":"Zinc deficiency in rice","content":"Apply 25 kg zinc sulfate per hectare as basal dose or foliar spray."},
+  {"title":"Tomato yellow leaf curl","content":"Use resistant varieties; control whitefly with neem oil."},
+  {"title":"Irrigation in tomato","content":"Maintain moist soil, avoid wetting foliage to reduce disease risk."},
+  {"title":"Potato hilling","content":"Hill soil around plants when 15 cm tall to improve tuber yield."},
+  {"title":"Weed management in rice","content":"Use pre-emergence herbicide, hand weed after 25 days to reduce competition."},
+  {"title":"Fertilizer application in pulses","content":"Apply 20 kg N, 40 kg P2O5 per hectare; split N at sowing and flowering."},
+  {"title":"Aphid management in wheat","content":"Spray neem oil or imidacloprid; encourage ladybird beetles."},
+  {"title":"Tomato staking","content":"Tie plants to stakes to reduce disease and improve fruit quality."},
+  {"title":"Storage of onions","content":"Cure onions in sunlight for 7-10 days; store in dry, ventilated place."},
+  {"title":"Mango flowering management","content":"Apply potassium nitrate 2% solution to improve flowering; avoid excess nitrogen."},
+  {"title":"Water management in sugarcane","content":"Irrigate 5-7 cm in furrows; reduce water before maturity to enhance sugar content."},
+  {"title":"Seed treatment in wheat","content":"Treat seeds with carbendazim or Trichoderma to prevent fungal diseases."},
+  {"title":"Leaf spot in rice","content":"Spray chlorothalonil or tricyclazole every 10 days; remove affected leaves."},
+  {"title":"Potassium deficiency in tomato","content":"Apply 200 g muriate of potash per plant; water immediately after."},
+  {"title":"Fertilizer for rice","content":"Apply NPK as per soil test; split N into 2-3 doses."},
+  {"title":"Tomato watering schedule","content":"Water early morning; maintain consistent soil moisture."},
+  {"title":"Irrigation in pulses","content":"Keep soil moist till flowering; avoid waterlogging."},
+  {"title":"Fruit fly traps in guava","content":"Use methyl eugenol traps; remove fallen fruits regularly."},
+  {"title":"Wheat rust management","content":"Use resistant varieties; spray propiconazole or triazole fungicides."},
+  {"title":"Rice transplanting","content":"Transplant seedlings 20-25 days old with proper spacing for good growth."},
+  {"title":"Banana irrigation","content":"Apply 20-25 L per plant twice a week; increase during dry season."},
+  {"title":"Potato pest management","content":"Monitor for Colorado potato beetle; use neem or pyrethroid sprays."},
+  {"title":"Irrigation in maize","content":"Water at knee height stage and tasseling; avoid water stress."},
+  {"title":"Seed storage in pulses","content":"Store in cool, dry place; treat with diatomaceous earth to prevent pests."},
+  {"title":"Soil fertility management","content":"Apply organic manure yearly; adjust chemical fertilizer as per soil test."},
+  {"title":"Tomato pruning","content":"Prune suckers to improve air circulation and fruit quality."},
+  {"title":"Rice blast prevention","content":"Use resistant varieties; avoid high nitrogen during early stage."},
+  {"title":"Wheat irrigation schedule","content":"Irrigate at crown root initiation and tillering stage; avoid waterlogging."},
+  {"title":"Banana fertilization","content":"Apply 200 g N, 150 g K2O per plant; split N dose in 2 parts."},
+  {"title":"Paddy weed control","content":"Use pre-emergence herbicides and hand weeding to control weeds."},
+  {"title":"Aphid control in mustard","content":"Spray neem oil every 7 days; remove infested leaves."},
+  {"title":"Seed treatment in pulses","content":"Use Rhizobium culture before sowing to improve nitrogen fixation."},
+  {"title":"Late blight in tomato","content":"Remove infected leaves; spray copper oxychloride every 7-10 days."},
+  {"title":"Storage of grains","content":"Keep grains dry; use jute bags and neem leaves to prevent insects."},
+  {"title":"Watering sugarcane","content":"Maintain 5-7 cm standing water in furrows; reduce before harvest."},
+  {"title":"Tomato pest management","content":"Monitor for whiteflies; spray neem oil or insecticide if needed."},
+  {"title":"Potato watering","content":"Keep soil moist; avoid waterlogging to reduce tuber rot."},
+  {"title":"Wheat fertilizer","content":"Apply NPK based on soil test; split N dose for better uptake."},
+  {"title":"Rice irrigation","content":"Maintain 2-3 cm water until tillering; drain before flowering if needed."},
+  {"title":"Banana pest management","content":"Control banana borer using pheromone traps and insecticide sprays."},
+  {"title":"Fruit fly in guava","content":"Hang methyl eugenol traps; remove fallen fruits regularly."},
+  {"title":"Leaf spot in tomato","content":"Spray copper oxychloride; remove infected leaves weekly."},
+  {"title":"Irrigation in tomato","content":"Water in early morning; maintain moist soil without waterlogging."},
+  {"title":"Seed treatment in wheat","content":"Treat with fungicide or Trichoderma before sowing to prevent diseases."},
+  {"title":"Fertilizer for maize","content":"Apply NPK as per soil test; split N into 2 doses."},
+  {"title":"Rice blast disease","content":"Use resistant varieties; spray tricyclazole if needed."},
+  {"title":"Tomato yellow leaf curl","content":"Use resistant varieties; control whiteflies with neem oil."},
+  {"title":"Potassium deficiency in banana","content":"Apply muriate of potash per plant; water immediately after."},
+  {"title":"Wheat rust management","content":"Use resistant varieties; spray triazole fungicides every 10 days."},
+  {"title":"Rice seed treatment","content":"Treat seeds with fungicide before sowing to prevent fungal infections."},
+  {"title":"Potato hilling","content":"Hill soil around plants at 15 cm height to improve tuber growth."},
+  {"title":"Organic compost preparation","content":"Mix farm waste, cow dung, and green leaves; turn every 10 days for 2 months."},
+  {"title":"Aphid control in mustard","content":"Spray neem oil weekly; remove affected leaves."},
+  {"title":"Watering rice seedlings","content":"Keep 2-3 cm standing water until tillering stage; avoid stress during panicle initiation."},
+  {"title":"Seed subsidy info","content":"Visit local agriculture office or state agri portal for seed subsidy forms."},
+  {"title":"Tomato staking","content":"Tie plants to stakes to prevent disease and improve fruit quality."},
+  {"title":"Wheat irrigation","content":"Apply water at crown root initiation and tillering stage; avoid overwatering."},
+  {"title":"Rice transplanting","content":"Transplant 25-30 days old seedlings at 20x20 cm spacing for optimum growth."},
+  {"title":"Banana irrigation","content":"Apply 20-25 L per plant twice a week; increase during dry season."},
+  {"title":"Potato pest management","content":"Monitor for Colorado potato beetle; spray neem or pyrethroids."},
+  {"title":"Tomato pruning","content":"Remove suckers to improve air circulation and fruit quality."},
+  {"title":"Rice blast prevention","content":"Use resistant varieties; avoid high nitrogen during early growth stage."},
+  {"title":"Fertilizer application in pulses","content":"Apply 20 kg N, 40 kg P2O5 per hectare; split N dose at sowing and flowering."},
+  {"title":"Leaf spot in rice","content":"Spray chlorothalonil or tricyclazole every 10 days; remove affected leaves."},
+  {"title":"Potassium deficiency in tomato","content":"Apply 200 g muriate of potash per plant; water immediately after."},
+  {"title":"Storage of onions","content":"Cure onions 7-10 days in sunlight; store in dry, ventilated place."},
+  {"title":"Mango flowering management","content":"Apply 2% potassium nitrate solution to improve flowering; avoid excess nitrogen."},
+  {"title":"Water management in sugarcane","content":"Maintain 5-7 cm water in furrows; reduce water before maturity to enhance sugar."},
+  {"title":"Seed treatment in wheat","content":"Treat seeds with carbendazim or Trichoderma to prevent fungal diseases."},
+  {"title":"Downy mildew in grapes","content":"Spray copper oxychloride every 10-14 days; remove infected shoots."},
+  {"title":"Vaccination schedule for cattle","content":"Vaccinate calves against FMD, brucellosis, and HS as per local veterinary schedule."},
+  {"title":"Poultry feed management","content":"Provide balanced feed with 18% protein for layers; ensure constant clean water."},
+  {"title":"Beehive maintenance","content":"Inspect hives every 2 weeks; remove dead bees and prevent pests like wax moth."},
+  {"title":"Tomato pruning for higher yield","content":"Remove lower leaves and suckers; maintain 50 cm spacing between plants."},
+  {"title":"Soil erosion control","content":"Use contour plowing, plant cover crops, and construct bunds to prevent topsoil loss."},
+  {"title":"Rainwater harvesting for farms","content":"Collect runoff in tanks or ponds; use for irrigation during dry spells."},
+  {"title":"Organic vegetable farming","content":"Use compost, biofertilizers, and neem-based pesticides; avoid chemical inputs."},
+  {"title":"Integrated pest management in cotton","content":"Use pheromone traps, natural predators, and minimal chemical sprays."},
+  {"title":"Post-harvest mango handling","content":"Harvest at mature green stage; store in shaded, ventilated area to prevent spoilage."},
+  {"title":"Drip irrigation for vegetables","content":"Install drip lines at root zone; water 15-20 minutes twice a day for young plants."},
+  {"title":"Fodder management for dairy cows","content":"Grow high-protein fodder like maize and berseem; feed 3 times daily."},
+  {"title":"Layer hen lighting schedule","content":"Provide 14-16 hours of light daily to maintain egg production."},
+  {"title":"Honeybee queen management","content":"Replace old queens every 1-2 years to maintain hive productivity."},
+  {"title":"Mulching in vegetable gardens","content":"Apply straw or dry leaves around plants to conserve moisture and suppress weeds."},
+  {"title":"Soil testing for micronutrients","content":"Collect soil samples; test for Zn, Fe, Mn, Cu and adjust fertilizers accordingly."},
+  {"title":"Climate-smart wheat sowing","content":"Use drought-resistant varieties and stagger planting to avoid heat stress."},
+  {"title":"Tractor safety tips","content":"Always check brakes, tires, and lights before use; avoid overloading."},
+  {"title":"Post-harvest storage of potatoes","content":"Cure for 7 days; store in dark, ventilated area to prevent sprouting."},
+  {"title":"Composting kitchen waste","content":"Mix vegetable peels, cow dung, and garden waste; turn every 7-10 days."},
+  {"title":"Biofertilizer use in legumes","content":"Inoculate seeds with Rhizobium to enhance nitrogen fixation."},
+  {"title":"Calf rearing nutrition","content":"Feed milk 10% of body weight twice daily; gradually introduce roughage after 2 weeks."},
+  {"title":"Poultry vaccination","content":"Vaccinate against ND, IB, and IBD as per veterinary advice."},
+  {"title":"Honeybee swarm management","content":"Provide empty supers for new colonies; prevent swarming by splitting hives."},
+  {"title":"Cucumber trellising","content":"Train vines on trellis; remove lower leaves to reduce disease risk."},
+  {"title":"Organic pest management in cabbage","content":"Spray neem oil; release ladybirds and lacewings as biological control."},
+  {"title":"Rain-fed maize cultivation","content":"Plant drought-resistant varieties; mulch to retain soil moisture."},
+  {"title":"Solar-powered irrigation","content":"Use solar pumps for small-scale irrigation; reduce energy costs."},
+  {"title":"Farm mechanization for plowing","content":"Use rotavators or plows to reduce labor and improve soil aeration."},
+  {"title":"Post-harvest onion storage","content":"Cure onions 10 days in sun; store in ventilated racks."},
+  {"title":"Composting with EM (Effective Microorganisms)","content":"Mix farm waste with EM solution; maintain moisture and aeration."},
+  {"title":"Azospirillum biofertilizer for cereals","content":"Apply 10 g/kg seed before sowing to improve growth and yield."},
+  {"title":"Goat deworming schedule","content":"Deworm every 3 months using veterinarian-recommended anthelmintics."},
+  {"title":"Poultry litter management","content":"Collect and compost litter; reuse as organic fertilizer."},
+  {"title":"Beehive ventilation","content":"Ensure proper airflow; reduce moisture and prevent mold."},
+  {"title":"Tomato fruit harvesting","content":"Harvest at mature green or breaker stage; handle gently to avoid bruising."},
+  {"title":"Soil organic matter improvement","content":"Add green manure crops and compost annually to improve fertility."},
+  {"title":"Climate-adaptive rice varieties","content":"Use flood-tolerant and saline-resistant varieties in stressed areas."},
+  {"title":"Tractor maintenance","content":"Lubricate joints, check oil levels, and inspect filters monthly."},
+  {"title":"Post-harvest maize handling","content":"Dry kernels to 12-14% moisture; store in sealed bags to prevent pests."},
+  {"title":"Kitchen waste vermicomposting","content":"Use red worms; maintain moisture and aeration for effective decomposition."},
+  {"title":"Phosphate solubilizing bacteria use","content":"Apply to soil or seed to improve phosphorus availability."},
+  {"title":"Calf vaccination","content":"Vaccinate against Rinderpest, FMD, and HS as per local schedule."},
+  {"title":"Layer hen housing","content":"Provide proper ventilation, perches, and nesting boxes."},
+  {"title":"Honeybee disease management","content":"Monitor for Varroa mites and Nosema; treat with approved medications."},
+  {"title":"Cucumber irrigation","content":"Water at base of plants; avoid wetting leaves to reduce mildew."},
+  {"title":"Organic fertilization in cabbage","content":"Use compost and vermicompost; avoid synthetic nitrogen during growth."},
+  {"title":"Maize intercropping","content":"Plant legumes between maize rows to improve soil nitrogen and reduce weeds."},
+  {"title":"Solar water pump maintenance","content":"Check panels, clean filters, and inspect electrical connections monthly."},
+  {"title":"Plowing with bullocks","content":"Use trained animals; ensure proper yoke fitting and rest periods."},
+  {"title":"Potato curing","content":"Store at 15°C and 85% humidity for 7-10 days to heal wounds."},
+  {"title":"Vermicomposting for vegetable farms","content":"Mix farm residues with worms; keep shaded and moist."},
+  {"title":"Azotobacter biofertilizer application","content":"Apply 2-3 kg/ha in soil to enhance nitrogen availability."},
+  {"title":"Goat housing","content":"Provide shelter from rain and sun; ensure proper ventilation."},
+  {"title":"Poultry brooding","content":"Maintain 32-35°C for chicks; gradually reduce temperature over 6 weeks."},
+  {"title":"Beehive pest traps","content":"Use sticky or pheromone traps to control wax moths and ants."},
+  {"title":"Tomato staking and spacing","content":"Maintain 50 cm between plants; tie stems to support poles."},
+  {"title":"Soil erosion by wind control","content":"Plant windbreaks and grass strips to reduce topsoil loss."},
+  {"title":"Climate-smart irrigation","content":"Use soil moisture sensors to schedule watering; save water during droughts."},
+  {"title":"Tractor safety during plowing","content":"Check tire pressure, avoid slopes, and never overload."},
+  {"title":"Post-harvest tomato storage","content":"Keep in cool, ventilated rooms; avoid direct sunlight."},
+  {"title":"Composting with cow dung","content":"Mix with straw and water; turn regularly for uniform decomposition."},
+  {"title":"Phosphate solubilizing fungi","content":"Apply 10 g/kg seed to improve P uptake in cereals."},
+  {"title":"Calf weaning nutrition","content":"Gradually replace milk with high-quality roughage and concentrates after 8 weeks."},
+  {"title":"Poultry vaccination booster","content":"Administer ND booster at 16-20 weeks; follow local vet guidance."},
+  {"title":"Bee swarm prevention","content":"Provide sufficient supers and split colonies when overcrowded."},
+  {"title":"Cucumber pest management","content":"Spray neem oil; remove infected leaves to control aphids and mites."},
+  {"title":"Organic nutrient management in cabbage","content":"Apply vermicompost and green manure; avoid chemical fertilizers."},
+  {"title":"Intercropping vegetables with maize","content":"Grow legumes or leafy vegetables between maize rows to enhance productivity."},
+  {"title":"Solar irrigation system checks","content":"Inspect pump, valves, and panels regularly; clean debris from filters."},
+  {"title":"Bullock rest periods","content":"Provide 2-3 hours rest after plowing; ensure access to water and fodder."},
+  {"title":"Potato sprout inhibition","content":"Store at 10°C and dark conditions to reduce sprouting."},
+  {"title":"Vermicomposting for farm waste","content":"Mix vegetable peels, cow dung, and garden waste; keep moist and aerated."},
+  {"title":"Azospirillum inoculation","content":"Apply to maize seeds before sowing to boost growth and yield."},
+  {"title":"Goat parasite control","content":"Deworm every 3 months and rotate pastures to reduce infection."},
+  {"title":"Poultry ventilation","content":"Ensure adequate airflow to prevent heat stress and respiratory issues."},
+  {"title":"Honeybee feeding during dearth period","content":"Provide sugar syrup 1:1 ratio; avoid overfeeding to prevent fermentation."},
+  {"title":"Tomato harvest timing","content":"Pick fruits at mature green stage for transportation or fully ripe for local sale."},
+  {"title":"Soil organic matter increase","content":"Grow green manure crops; add compost and crop residues annually."},
+  {"title":"Climate-resilient rice","content":"Use flood-tolerant and drought-resistant varieties in stressed areas."},
+  {"title":"Tractor lubrication","content":"Grease joints, check engine oil, and replace filters as per manual."},
+  {"title":"Post-harvest maize drying","content":"Dry to 12-14% moisture; store in sealed, ventilated bags."},
+  {"title":"Kitchen waste vermicomposting","content":"Use red worms; maintain moisture and aeration for decomposition."},
+  {"title":"Phosphate solubilizing bacteria in soil","content":"Apply 10 g/kg seed to improve phosphorus uptake."},
+  {"title":"Calf housing","content":"Provide dry, clean, and ventilated area to prevent infections."},
+  {"title":"Layer hen space requirement","content":"Provide 0.08-0.1 m² per bird; ensure proper feeders and drinkers."},
+  {"title":"Bee disease prevention","content":"Inspect hives for Varroa and Nosema; treat as per guidance."},
+  {"title":"Cucumber disease management","content":"Rotate crops; use neem oil and remove infected plants."},
+  {"title":"Organic cabbage farming","content":"Use compost and biofertilizers; avoid chemical pesticides."},
+  {"title":"Vegetable intercropping","content":"Plant legumes between rows to fix nitrogen and reduce pests."},
+  {"title":"Solar pump maintenance","content":"Clean panels, inspect wiring and pump monthly for efficiency."},
+  {"title":"Bullock welfare","content":"Provide clean water, shade, and proper feed; avoid overwork."},
+  {"title":"Potato storage humidity control","content":"Keep 85% relative humidity; ventilate to prevent rot."},
+  {"title":"Vermicomposting with farm residues","content":"Mix crop residues with cow dung; turn regularly and keep moist."},
+  {"title":"Azotobacter application","content":"Apply 2-3 kg/ha to soil to improve nitrogen fixation."},
+  {"title":"Goat vaccination schedule","content":"Vaccinate against PPR, FMD, and enterotoxemia as per local vet advice."},
+  {"title":"Poultry brooder temperature","content":"Maintain 32-35°C for chicks; gradually reduce over 6 weeks."},
+  {"title":"Bee swarm management","content":"Split colonies and provide new hives to prevent swarming."},
+  {"title":"Tomato vine training","content":"Tie to stakes; remove lower leaves to improve air circulation."},
+  {"title":"Soil erosion by water","content":"Build check dams, terraces, and maintain vegetative cover."},
+  {"title":"Climate-smart irrigation scheduling","content":"Use soil moisture sensors; irrigate when field capacity drops below 50%."},
+  {"title":"Tractor operation on slopes","content":"Avoid steep slopes; use low gear and maintain safe speed."},
+  {"title":"Post-harvest tomato handling","content":"Store in cool, ventilated rooms; avoid stacking too high."},
+  {"title":"Composting with cow dung","content":"Mix with straw and water; turn regularly for uniform decomposition."},
+  {"title":"Phosphate solubilizing fungi","content":"Apply 10 g/kg seed to improve P uptake in cereals."},
+  {"title":"Sheep shearing tips","content":"Shear wool once a year; disinfect shears and provide clean bedding to avoid infections."},
+  {"title":"Mushroom cultivation on straw","content":"Pasteurize straw, maintain 25°C and 80% humidity for optimal growth."},
+  {"title":"Drip fertigation in tomatoes","content":"Apply soluble fertilizers through drip; monitor EC and pH to avoid nutrient burn."},
+  {"title":"Goat kidding management","content":"Provide clean birthing area; feed energy-rich diet to pregnant does."},
+  {"title":"Beekeeping in urban areas","content":"Place hives in shaded, low-disturbance spots; ensure water source nearby."},
+  {"title":"Waterlogging prevention in soybean fields","content":"Use raised beds or ridges; improve drainage to avoid root rot."},
+  {"title":"Sprinkler irrigation in carrot fields","content":"Irrigate early morning; avoid wetting foliage to reduce disease."},
+  {"title":"Tomato fruit cracking prevention","content":"Maintain consistent soil moisture; avoid sudden heavy irrigation."},
+  {"title":"Solar fencing for livestock","content":"Install solar-powered electric fences to prevent straying; check voltage weekly."},
+  {"title":"Flower nursery shading","content":"Use 30-50% shade net for young seedlings; avoid direct harsh sunlight."},
+  {"title":"Rabbit housing","content":"Provide raised cages with proper ventilation; clean weekly to prevent disease."},
+  {"title":"Mulberry leaf harvesting for silkworms","content":"Harvest young leaves in morning; avoid cutting midribs."},
+  {"title":"Vermicompost tea for vegetables","content":"Soak vermicompost in water for 24 hours; apply liquid fertilizer weekly."},
+  {"title":"Maize lodging prevention","content":"Plant at recommended spacing; apply balanced N and K fertilizers."},
+  {"title":"Silage preparation for cattle","content":"Chop green fodder; ferment in airtight silo for 3-4 weeks before feeding."},
+  {"title":"Neem-based pest spray","content":"Mix neem oil 2% with water; spray weekly on affected crops."},
+  {"title":"Farm pond fish integration","content":"Introduce compatible fish species to control mosquitoes and improve income."},
+  {"title":"Rice straw management","content":"Use straw for mulch or compost; avoid burning to reduce pollution."},
+  {"title":"Green manure crops in drylands","content":"Grow legumes like cowpea or sunn hemp; incorporate into soil before flowering."},
+  {"title":"Tomato blossom end rot prevention","content":"Maintain adequate calcium through soil amendment; avoid irregular watering."},
+  {"title":"Buffalo nutrition","content":"Feed green fodder, hay, and concentrate; ensure 10-12 liters of water per day."},
+  {"title":"Chick brooding temperature","content":"Keep 32-34°C for first week; reduce gradually by 2°C per week."},
+  {"title":"Honeybee swarm capture","content":"Use empty hives and lure with sugar solution; relocate safely to apiary."},
+  {"title":"Cucumber leaf curl prevention","content":"Remove infected leaves; control whiteflies using neem oil."},
+  {"title":"Organic fertilizer for leafy vegetables","content":"Apply compost and vermicompost before planting; avoid synthetic nitrogen."},
+  {"title":"Maize intercropping with legumes","content":"Plant beans or cowpea between rows to fix nitrogen and reduce weeds."},
+  {"title":"Solar irrigation system maintenance","content":"Clean panels, check wiring, and inspect pump monthly for efficiency."},
+  {"title":"Bullock welfare","content":"Provide shade, clean water, proper feed, and rest periods."},
+  {"title":"Potato sprout inhibition","content":"Store at 10°C in dark conditions to prevent sprouting."},
+  {"title":"Vermicomposting with farm residues","content":"Mix crop residues and cow dung; keep moist and turn regularly."},
+  {"title":"Azospirillum application for cereals","content":"Treat seeds before sowing to improve growth and yield."},
+  {"title":"Goat parasite management","content":"Deworm every 3 months; rotate pastures to reduce infection."},
+  {"title":"Layer hen ventilation","content":"Ensure proper airflow; reduce heat stress and respiratory issues."},
+  {"title":"Honeybee feeding in dearth period","content":"Provide sugar syrup 1:1; avoid overfeeding to prevent fermentation."},
+  {"title":"Tomato harvest timing","content":"Pick fruits at mature green for transport or fully ripe for local sale."},
+  {"title":"Soil organic matter improvement","content":"Add compost, green manure crops, and crop residues annually."},
+  {"title":"Climate-resilient rice varieties","content":"Use drought or flood-tolerant varieties in stressed areas."},
+  {"title":"Tractor lubrication","content":"Grease joints, check engine oil, and replace filters regularly."},
+  {"title":"Post-harvest maize drying","content":"Dry to 12-14% moisture; store in sealed ventilated bags."},
+  {"title":"Kitchen waste vermicomposting","content":"Use red worms; maintain moisture and aeration for decomposition."},
+  {"title":"Phosphate solubilizing bacteria","content":"Apply 10 g/kg seed to improve phosphorus uptake."},
+  {"title":"Calf housing management","content":"Provide dry, clean, ventilated area to prevent infections."},
+  {"title":"Layer hen space requirement","content":"Provide 0.08-0.1 m² per bird; ensure proper feeders and drinkers."},
+  {"title":"Bee disease prevention","content":"Inspect hives for Varroa and Nosema; treat as per guidance."},
+  {"title":"Cucumber disease management","content":"Rotate crops; spray neem oil; remove infected plants."},
+  {"title":"Organic cabbage cultivation","content":"Use compost and biofertilizers; avoid chemical pesticides."},
+  {"title":"Vegetable intercropping","content":"Plant legumes between rows to fix nitrogen and reduce pests."},
+  {"title":"Solar pump system checks","content":"Inspect valves, panels, and pump monthly; clean debris from filters."},
+  {"title":"Bullock resting periods","content":"Provide 2-3 hours rest after plowing; ensure water and feed."},
+  {"title":"Potato storage humidity control","content":"Keep 85% relative humidity; ventilate to prevent rot."},
+  {"title":"Vermicomposting for vegetable farms","content":"Mix farm residues with worms; keep shaded and moist."},
+  {"title":"Azotobacter application","content":"Apply 2-3 kg/ha to soil to enhance nitrogen fixation."},
+  {"title":"Goat vaccination schedule","content":"Vaccinate against PPR, FMD, and enterotoxemia as per vet advice."},
+  {"title":"Brooder temperature for chicks","content":"Maintain 32-35°C initially; gradually reduce over 6 weeks."},
+  {"title":"Bee swarm prevention","content":"Split colonies and provide empty hives to avoid swarming."},
+  {"title":"Tomato vine training","content":"Tie to stakes; remove lower leaves to improve air circulation."},
+  {"title":"Soil erosion by water","content":"Construct terraces, bunds, and maintain vegetative cover."},
+  {"title":"Climate-smart irrigation","content":"Use soil moisture sensors; irrigate when field capacity drops below 50%."},
+  {"title":"Tractor operation on slopes","content":"Avoid steep slopes; use low gear and maintain safe speed."},
+  {"title":"Post-harvest tomato handling","content":"Store in cool, ventilated rooms; avoid stacking too high."},
+  {"title":"Composting with cow dung","content":"Mix with straw and water; turn regularly for uniform decomposition."},
+  {"title":"Phosphate solubilizing fungi","content":"Apply 10 g/kg seed to improve P uptake in cereals."},
+  {"title":"Sheep kidding care","content":"Provide clean birthing area; ensure energy-rich feed for pregnant ewes."},
+  {"title":"Mushroom bag humidity","content":"Maintain 80-90% humidity; mist daily for uniform growth."},
+  {"title":"Goat milking hygiene","content":"Wash udders before milking; store milk at 4°C."},
+  {"title":"Beehive queen replacement","content":"Replace old queens every 1-2 years to maintain hive productivity."},
+  {"title":"Tomato pest scouting","content":"Inspect plants weekly for aphids, whiteflies, and caterpillars."},
+  {"title":"Organic leafy vegetable nutrition","content":"Apply compost and vermicompost; avoid synthetic N."},
+  {"title":"Maize drought mitigation","content":"Use mulch, staggered planting, and drought-tolerant varieties."},
+  {"title":"Solar irrigation efficiency","content":"Clean panels monthly; inspect pump and filters for blockages."},
+  {"title":"Bullock feeding schedule","content":"Feed green fodder 2-3 times daily; supplement with concentrate if needed."},
+  {"title":"Potato disease-free storage","content":"Store in ventilated, dark area; avoid high humidity."},
+  {"title":"Vermicompost tea application","content":"Apply liquid extract to soil around plants weekly."},
+  {"title":"Azospirillum for wheat","content":"Treat seeds before sowing to improve root growth and yield."},
+  {"title":"Goat kidding hygiene","content":"Clean birthing pens; disinfect tools and bedding."},
+  {"title":"Layer hen vaccination booster","content":"Administer ND and IB booster at 16 weeks; follow local vet guidelines."},
+  {"title":"Bee swarm capture technique","content":"Place empty hives with sugar solution near swarms; relocate to apiary."},
+  {"title":"Cucumber irrigation schedule","content":"Water at root zone; avoid wetting leaves to prevent mildew."},
+  {"title":"Organic cabbage pest control","content":"Use neem oil and release predators; avoid chemical pesticides."},
+  {"title":"Vegetable intercropping benefits","content":"Improves soil fertility, reduces pests, and increases total yield."},
+  {"title":"Solar water pump cleaning","content":"Clean debris, check valves, and ensure panels are dust-free."},
+  {"title":"Bullock shade management","content":"Provide tree shade or shed during hot afternoons to reduce heat stress."},
+  {"title":"Potato curing temperature","content":"15°C and 85% humidity for 7-10 days to heal wounds before storage."},
+  {"title":"Vermicomposting bed preparation","content":"Use wooden or brick beds; layer cow dung and plant residues."},
+  {"title":"Azotobacter inoculation method","content":"Apply as soil drench or seed coating to improve nitrogen fixation."},
+  {"title":"Goat housing ventilation","content":"Ensure air flow; prevent moisture accumulation to reduce respiratory issues."},
+  {"title":"Brooder lighting","content":"Provide 14-16 hours light daily; use red bulbs to calm chicks."},
+  {"title":"Bee disease inspection","content":"Check for mites and fungal infections weekly; treat promptly."},
+  {"title":"Tomato vine pruning","content":"Remove lower leaves and suckers; improve light penetration and air flow."},
+  {"title":"Soil cover crops","content":"Plant legumes or grasses to prevent erosion and improve fertility."},
+  {"title":"Climate-smart maize sowing","content":"Use early-maturing varieties; stagger planting to avoid heat stress."},
+  {"title":"Tractor pre-operation check","content":"Check brakes, oil, tires, and lights before starting work."},
+  {"title":"Post-harvest carrot handling","content":"Trim tops, wash, dry, and store in ventilated cool area."},
+  {"title":"Composting with garden waste","content":"Mix leaves, vegetable peels, and green manure; turn regularly."},
+  {"title":"Phosphate solubilizing microbes","content":"Apply to soil or seed to enhance phosphorus uptake in crops."},
+  {"title":"Tilapia pond setup","content":"Construct 1-2 m deep pond with proper inlet/outlet; maintain water quality for healthy growth."},
+  {"title":"Carp fingerling stocking","content":"Stock 5000 fingerlings per hectare; ensure proper acclimatization before release."},
+  {"title":"Silkworm rearing temperature","content":"Maintain 24-28°C with 85% humidity; feed mulberry leaves 4-5 times daily."},
+  {"title":"Aloe vera plantation","content":"Plant in well-drained soil; water sparingly and provide partial shade."},
+  {"title":"Mini tractor usage","content":"Use for plowing, leveling, and hauling; maintain proper tire pressure and lubrication."},
+  {"title":"Drip irrigation in greenhouse","content":"Install drip lines at root zone; regulate flow and monitor for blockages."},
+  {"title":"Crop rotation planning","content":"Alternate cereals with legumes; improve soil fertility and reduce pests."},
+  {"title":"Farm financial records","content":"Maintain daily entries of expenses, income, and yields; helps in better planning."},
+  {"title":"Polyhouse tomato cultivation","content":"Maintain 25°C, 70% humidity; provide fertigation and insect-proof nets."},
+  {"title":"High-yield wheat varieties","content":"Use resistant varieties like HD2967 or PBW550; follow recommended seed rate."},
+  {"title":"Farmer sun protection","content":"Wear hats, sunglasses, and use sunscreen; avoid working in peak sun hours."},
+  {"title":"Prawn culture in ponds","content":"Maintain salinity 5-15 ppt; feed protein-rich diet 3 times daily."},
+  {"title":"Fish pond aeration","content":"Use paddle wheel or diffusers; maintain dissolved oxygen above 5 mg/L."},
+  {"title":"Mulberry pruning","content":"Prune old leaves to encourage new growth; avoid damaging main stems."},
+  {"title":"Basil plantation","content":"Plant in well-drained soil; harvest leaves every 6-8 weeks."},
+  {"title":"Hand-operated seed drill","content":"Use for sowing small grains; calibrate seed rate before use."},
+  {"title":"Micro-sprinkler irrigation","content":"Install micro-sprinklers at 1.5-2 m spacing; water early morning or late evening."},
+  {"title":"Legume-cereal rotation","content":"Rotate chickpea or pigeon pea with wheat; reduce disease incidence."},
+  {"title":"Farm budgeting","content":"Plan seasonal expenses and expected returns; helps in risk management."},
+  {"title":"Tomato polyhouse shading","content":"Use 30% shade net; avoid direct intense sunlight on leaves."},
+  {"title":"Heat-tolerant maize variety","content":"Use HM-4 or HQPM-1; plant early to avoid mid-season heat stress."},
+  {"title":"Farmer hydration","content":"Drink 2-3 liters of water daily; avoid working in peak afternoon sun without breaks."},
+  {"title":"Carp pond fertilization","content":"Apply cow dung 500 kg/ha weekly; maintain plankton growth for fish feed."},
+  {"title":"Tilapia feed schedule","content":"Feed 3% of body weight twice daily; adjust based on water temperature."},
+  {"title":"Silkworm disease prevention","content":"Keep rearing room clean; disinfect trays and tools regularly."},
+  {"title":"Tulsi plantation care","content":"Plant in partial shade; water regularly but avoid waterlogging."},
+  {"title":"Mini rotavator usage","content":"Use for soil preparation; avoid overloading to prevent engine damage."},
+  {"title":"Sub-surface drip irrigation","content":"Install drip tape below soil; reduces evaporation and conserves water."},
+  {"title":"Cereal-legume intercropping","content":"Plant maize with beans; improves soil fertility and overall yield."},
+  {"title":"Farm income tracking","content":"Record crop-wise income; helps in evaluating profitability."},
+  {"title":"Polyhouse cucumber cultivation","content":"Maintain 25°C, 60-70% humidity; train vines on trellises."},
+  {"title":"Fusarium-resistant tomato variety","content":"Use Pusa Ruby or Roma; rotate crops to prevent soil-borne disease."},
+  {"title":"Farmer first aid kit","content":"Include bandages, antiseptics, gloves, and basic medicines."},
+  {"title":"Prawn water quality monitoring","content":"Check pH 7-8, temperature 25-30°C; avoid ammonia accumulation."},
+  {"title":"Fish pond weed control","content":"Manual removal or aquatic herbicides; avoid oxygen depletion."},
+  {"title":"Mulberry irrigation schedule","content":"Water once or twice a week; avoid waterlogging to prevent root rot."},
+  {"title":"Lemon grass plantation","content":"Plant in well-drained sandy soil; trim leaves to encourage growth."},
+  {"title":"Manual plow safety","content":"Ensure stable footing; avoid working near edges or slopes."},
+  {"title":"Water-efficient drip system","content":"Monitor emitters; repair leaks and prevent clogging."},
+  {"title":"Crop rotation for pest management","content":"Alternate crops to disrupt pest life cycles and reduce infestation."},
+  {"title":"Farm expense tracking","content":"Keep receipts and record daily expenditures; review monthly."},
+  {"title":"Polyhouse chilli cultivation","content":"Maintain 25-30°C, 60-70% humidity; provide trellising support."},
+  {"title":"Heat-tolerant wheat varieties","content":"Use Raj 4037 or HI 1563; suitable for hot, dry areas."},
+  {"title":"Farmer protective gear","content":"Wear gloves, boots, and masks while spraying chemicals."},
+  {"title":"Carp pond stocking density","content":"Stock 2000-3000 fingerlings per 1000 m²; maintain proper spacing."},
+  {"title":"Tilapia water oxygenation","content":"Use aerators; maintain dissolved oxygen above 5 mg/L."},
+  {"title":"Silkworm leaf feeding","content":"Provide fresh, tender mulberry leaves 4-5 times a day."},
+  {"title":"Medicinal plant irrigation","content":"Water based on soil type; avoid overwatering sensitive species."},
+  {"title":"Mini tractor for transport","content":"Use for short-distance hauling; ensure load limits are not exceeded."},
+  {"title":"Micro-irrigation maintenance","content":"Clean filters and pipes monthly; flush system to prevent blockages."},
+  {"title":"Cereal-legume intercropping benefits","content":"Improves nitrogen content and reduces soil erosion."},
+  {"title":"Farm record-keeping software","content":"Use mobile apps or spreadsheets to track crop cycles and finances."},
+  {"title":"Polyhouse strawberry cultivation","content":"Maintain 18-25°C; provide fertigation and insect-proof nets."},
+  {"title":"Disease-resistant tomato hybrids","content":"Use Arka Rakshak or Arka Abha; rotate crops annually."},
+  {"title":"Farmer eye protection","content":"Wear goggles during pesticide application or dusty work."},
+  {"title":"Prawn stocking density","content":"Maintain 10-15 prawns per m²; prevent overcrowding."},
+  {"title":"Fish feed management","content":"Feed small quantities multiple times; avoid overfeeding to reduce pollution."},
+  {"title":"Mulberry leaf storage","content":"Use shaded racks; avoid crushing and spoilage."},
+  {"title":"Mint plantation care","content":"Plant in moist, well-drained soil; trim regularly to encourage branching."},
+  {"title":"Hand-operated tiller usage","content":"Use for small plots; maintain blades and engine per manual."},
+  {"title":"Drip irrigation scheduling","content":"Water early morning or late evening; adjust based on crop stage."},
+  {"title":"Crop rotation to manage soil fertility","content":"Alternate cereals with legumes to maintain nutrient balance."},
+  {"title":"Farm budgeting for smallholders","content":"Plan expenses, expected income, and contingencies before season start."},
+  {"title":"Polyhouse bell pepper cultivation","content":"Maintain 25-28°C; use fertigation and trellising for support."},
+  {"title":"Pest-resistant maize varieties","content":"Use HQPM-5 or Prakash; follow recommended agronomic practices."},
+  {"title":"Farmer hand hygiene","content":"Wash hands after handling chemicals, manure, or livestock."},
+  {"title":"Carp pond water depth","content":"Maintain 1-1.5 m depth; prevents overheating and oxygen depletion."},
+  {"title":"Tilapia growth monitoring","content":"Measure length and weight monthly; adjust feed accordingly."},
+  {"title":"Silkworm rearing hygiene","content":"Disinfect trays; remove dead worms daily to prevent disease."},
+  {"title":"Medicinal plant pruning","content":"Trim annually to encourage new growth and increase yield."},
+  {"title":"Mini tractor oil check","content":"Check engine oil and hydraulic fluid weekly; refill if low."},
+  {"title":"Micro-sprinkler placement","content":"Position 1.5-2 m apart; ensure uniform coverage."},
+  {"title":"Cereal-legume crop benefits","content":"Reduces pest load and improves soil fertility naturally."},
+  {"title":"Farm finance planning","content":"Estimate seasonal income and allocate funds for inputs and labor."},
+  {"title":"Polyhouse capsicum care","content":"Maintain 25°C and 70% humidity; monitor for pests and diseases."},
+  {"title":"Heat-tolerant rice varieties","content":"Use IR64 or NDR 359; suitable for high-temperature regions."},
+  {"title":"Farmer foot protection","content":"Wear boots to prevent injuries and infections while working."},
+  {"title":"Prawn aeration schedule","content":"Aerate 3-4 hours daily; increase during high temperature periods."},
+  {"title":"Fish pond water pH management","content":"Maintain pH 6.5-8; add lime if water is acidic."},
+  {"title":"Mulberry pest management","content":"Inspect leaves regularly; use neem-based sprays for common pests."},
+  {"title":"Basil leaf harvest","content":"Pick young leaves; avoid removing more than 30% of plant at a time."},
+  {"title":"Hand seed drill calibration","content":"Adjust seed rate before sowing; ensures uniform germination."},
+  {"title":"Drip system flushing","content":"Flush lines monthly; prevents emitter clogging and ensures uniform water."},
+  {"title":"Crop rotation schedule","content":"Plan sequences of cereals, legumes, and vegetables for soil health."},
+  {"title":"Farm expenditure record","content":"Record all purchases and labor costs; helps in budgeting."},
+  {"title":"Polyhouse okra cultivation","content":"Maintain 25-28°C; use fertigation and trellis support."},
+  {"title":"Disease-resistant chilli variety","content":"Use Arka Lohit; rotate crops to prevent soil-borne diseases."},
+  {"title":"Farmer ear protection","content":"Use earplugs when operating noisy machinery like tractors and threshers."},
+  {"title":"Carp pond aerator maintenance","content":"Clean blades monthly; ensure motor and power supply are functional."},
+  {"title": "Banana irrigation","content": "Apply organic manure before sowing."},
+  {"title": "Banana sowing depth","content": "Use drip irrigation for water efficiency."},
+  {"title": "Banana fertilizer","content": "Maintain proper spacing between plants."},
+  {"title": "Banana pest control","content": "Spray neem-based pesticides for pest control."},
+  {"title": "Banana disease management","content": "Harvest at the right maturity stage."},
+  {"title": "Banana harvesting","content": "Use resistant seed varieties."},
+  {"title": "Banana storage","content": "Irrigate at critical growth stages."},
+  {"title": "Banana spacing","content": "Avoid waterlogging to prevent root rot."},
+  {"title": "Banana weed control","content": "Apply recommended dose of fertilizers."},
+  {"title": "Banana soil preparation","content": "Store in cool, dry conditions to avoid spoilage."},
+  {"title": "Wheat irrigation","content": "Apply organic manure before sowing."},
+  {"title": "Wheat sowing depth","content": "Use drip irrigation for water efficiency."},
+  {"title": "Wheat fertilizer","content": "Maintain proper spacing between plants."},
+  {"title": "Wheat pest control","content": "Spray neem-based pesticides for pest control."},
+  {"title": "Wheat disease management","content": "Harvest at the right maturity stage."},
+  {"title": "Wheat harvesting","content": "Use resistant seed varieties."},
+  {"title": "Wheat storage","content": "Irrigate at critical growth stages."},
+  {"title": "Wheat spacing","content": "Avoid waterlogging to prevent root rot."},
+  {"title": "Wheat weed control","content": "Apply recommended dose of fertilizers."},
+  {"title": "Wheat soil preparation","content": "Store in cool, dry conditions to avoid spoilage."},
+  {"title": "Groundnut irrigation","content": "Apply organic manure before sowing."},
+  {"title": "Groundnut sowing depth","content": "Use drip irrigation for water efficiency."},
+  {"title": "Groundnut fertilizer","content": "Maintain proper spacing between plants."},
+  {"title": "Groundnut pest control","content": "Spray neem-based pesticides for pest control."},
+  {"title": "Groundnut disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Groundnut harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Groundnut storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Groundnut spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {"title": "Groundnut weed control","content": "Apply recommended dose of fertilizers."},
+  {
+    "title": "Groundnut soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Paddy irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Paddy sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Paddy fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Paddy pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Paddy disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Paddy harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Paddy storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Paddy spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Paddy weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Paddy soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Cotton irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Cotton sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Cotton fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Cotton pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Cotton disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Cotton harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Cotton storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Cotton spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Cotton weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Cotton soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Sugarcane irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Sugarcane sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Sugarcane fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Sugarcane pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Sugarcane disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Sugarcane harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Sugarcane storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Sugarcane spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Sugarcane weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Sugarcane soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Maize irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Maize sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Maize fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Maize pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Maize disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Maize harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Maize storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Maize spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Maize weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Maize soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Tomato irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Tomato sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Tomato fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Tomato pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Tomato disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Tomato harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Tomato storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Tomato spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Tomato weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Tomato soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Chilli irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Chilli sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Chilli fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Chilli pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Chilli disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Chilli harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Chilli storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Chilli spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Chilli weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Chilli soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Onion irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Onion sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Onion fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Onion pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Onion disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Onion harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Onion storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Onion spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Onion weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Onion soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Potato irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Potato sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Potato fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Potato pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Potato disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Potato harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Potato storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Potato spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Potato weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Potato soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Ragi irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Ragi sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Ragi fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Ragi pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Ragi disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Ragi harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Ragi storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Ragi spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Ragi weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Ragi soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Jowar irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Jowar sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Jowar fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Jowar pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Jowar disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Jowar harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Jowar storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Jowar spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Jowar weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Jowar soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Soybean irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Soybean sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Soybean fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Soybean pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Soybean disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Soybean harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Soybean storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Soybean spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Soybean weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Soybean soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Mustard irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Mustard sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Mustard fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Mustard pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Mustard disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Mustard harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Mustard storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Mustard spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Mustard weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Mustard soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Brinjal irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Brinjal sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Brinjal fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Brinjal pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Brinjal disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Brinjal harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Brinjal storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Brinjal spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Brinjal weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Brinjal soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {
+    "title": "Okra irrigation",
+    "content": "Apply organic manure before sowing."
+  },
+  {
+    "title": "Okra sowing depth",
+    "content": "Use drip irrigation for water efficiency."
+  },
+  {
+    "title": "Okra fertilizer",
+    "content": "Maintain proper spacing between plants."
+  },
+  {
+    "title": "Okra pest control",
+    "content": "Spray neem-based pesticides for pest control."
+  },
+  {
+    "title": "Okra disease management",
+    "content": "Harvest at the right maturity stage."
+  },
+  {
+    "title": "Okra harvesting",
+    "content": "Use resistant seed varieties."
+  },
+  {
+    "title": "Okra storage",
+    "content": "Irrigate at critical growth stages."
+  },
+  {
+    "title": "Okra spacing",
+    "content": "Avoid waterlogging to prevent root rot."
+  },
+  {
+    "title": "Okra weed control",
+    "content": "Apply recommended dose of fertilizers."
+  },
+  {
+    "title": "Okra soil preparation",
+    "content": "Store in cool, dry conditions to avoid spoilage."
+  },
+  {"title": "Sunflower irrigation","content": "Apply organic manure before sowing."},
+  {"title": "Sunflower sowing depth","content": "Use drip irrigation for water efficiency."},
+  {"title": "Sunflower fertilizer","content": "Maintain proper spacing between plants."},
+  {"title": "Sunflower pest control","content": "Spray neem-based pesticides for pest control."},
+  {"title": "Sunflower disease management","content": "Harvest at the right maturity stage."},
+  {"title": "Sunflower harvesting","content": "Use resistant seed varieties."},
+  {"title": "Sunflower storage","content": "Irrigate at critical growth stages."},
+  {"title": "Sunflower spacing","content": "Avoid waterlogging to prevent root rot."},
+  {"title": "Sunflower weed control","content": "Apply recommended dose of fertilizers."},
+  {"title": "Sunflower soil preparation","content": "Store in cool, dry conditions to avoid spoilage."},
+  {"title": "Tur irrigation","content": "Apply organic manure before sowing."},
+  {"title": "Tur sowing depth","content": "Use drip irrigation for water efficiency."},
+  {"title": "Tur fertilizer","content": "Maintain proper spacing between plants."},
+  {"title": "Tur pest control","content": "Spray neem-based pesticides for pest control."},
+  {"title": "Tur disease management","content": "Harvest at the right maturity stage."},
+  {"title": "Tur harvesting","content": "Use resistant seed varieties."},
+  {"title": "Tur storage","content": "Irrigate at critical growth stages."},
+  {"title": "Tur spacing","content": "Avoid waterlogging to prevent root rot."},
+  {"title": "Tur weed control","content": "Apply recommended dose of fertilizers."},
+  {"title": "Tur soil preparation","content": "Store in cool, dry conditions to avoid spoilage."},
+  {"title": "Moong irrigation","content": "Apply organic manure before sowing."},
+  {"title": "Moong sowing depth","content": "Use drip irrigation for water efficiency."},
+  {"title": "Moong fertilizer","content": "Maintain proper spacing between plants."},
+  {"title": "Moong pest control","content": "Spray neem-based pesticides for pest control."},
+  {"title": "Moong disease management","content": "Harvest at the right maturity stage."},
+  {"title": "Moong harvesting","content": "Use resistant seed varieties."},
+  {"title": "Moong storage","content": "Irrigate at critical growth stages."},
+  {"title": "Moong spacing","content": "Avoid waterlogging to prevent root rot."},
+  {"title": "Moong weed control","content": "Apply recommended dose of fertilizers."},
+  {"title": "Moong soil preparation","content": "Store in cool, dry conditions to avoid spoilage."}
+]
